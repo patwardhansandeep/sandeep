@@ -1,5 +1,5 @@
 ## Some Details...
-I am currently working in Zendesk as a Salesforce Engineering Manager.
+I am currently working in <a href="https://www.zendesk.com" target="_blank">Zendesk</a> as a Salesforce Engineering Manager.
 
 Before that I have worked in <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
 I have worked on <a href="https://www.dnb.com/products/marketing-sales/dnb-optimizer.html" target="_blank">D&B Optimizer for Salesforce</a> and <a href="https://www.dnb.com/products/marketing-sales/dnb-connect-for-salesforce.html" target="_blank">D&B Connect for Salesforce</a>. 
