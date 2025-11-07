@@ -1,6 +1,14 @@
 ## Some Details...
 I am currently working in <a href="https://www.zendesk.com" target="_blank">Zendesk</a> as a Salesforce Engineering Manager.
+I specialize in engineering comprehensive solutions that manage the entire Lead-to-Cash (L2C) process, ensuring seamless data flow between core platforms and external applications. My technical expertise spans the full stack of modern development: Apex, Triggers, Flows, and Lightning Web Components (LWC).
 
+Key technical achievements include:
+
+CPQ & Billing Specialization: Spearheading the complex integration between Salesforce CPQ and Zuora Billing/Revenue using an iPaaS solution (Workato), enabling new pricing models like usage-based billing.
+
+Ecosystem Integration: Successfully integrating critical Go-To-Market (GTM) applications like Clari, Gong, and Gainsight directly with our core platform, creating a unified view of the customer journey.
+
+Data Governance & Coverage: Architected and deployed the Territory Management framework across over 5,000 accounts, resulting in a 35% improvement in sales coverage and optimizing critical business functions like lead routing.
 Before that I have worked in <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
 I have worked on <a href="https://www.dnb.com/products/marketing-sales/dnb-optimizer.html" target="_blank">D&B Optimizer for Salesforce</a> and <a href="https://www.dnb.com/products/marketing-sales/dnb-connect-for-salesforce.html" target="_blank">D&B Connect for Salesforce</a>. 
 <br/>. Salesforce AppExchange listing - <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000PrxFOEAZ" target="_blank">D&B Connect For Salesforce</a>
