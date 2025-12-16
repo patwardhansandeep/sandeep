@@ -3,22 +3,7 @@ I am currently working in <a href="https://www.zendesk.com" target="_blank">Zend
 <title>Engineering Focus</title>
             I specialize in engineering comprehensive solutions that manage the entire <span class="highlight">Lead-to-Cash (L2C) process</span>, ensuring seamless data flow between core platforms and external applications. My technical expertise spans the full stack of modern development: <span class="highlight">Apex, Triggers, Flows, and Lightning Web Components (LWC)</span>.
     
-        <h2>Key Technical Achievements</h2>
-        
-        <ul class="achievements-list">
-            <li class="achievement-item">
-                <span class="achievement-title">CPQ & Billing Specialization:</span>
-                Spearheading the complex integration between <span class="highlight">Salesforce CPQ and Zuora Billing/Revenue</span> using an iPaaS solution (<span class="highlight">Workato</span>), enabling new pricing models like usage-based billing.
-            </li>
-            <li class="achievement-item">
-                <span class="achievement-title">Ecosystem Integration:</span>
-                Successfully integrating critical Go-To-Market (GTM) applications like <span class="highlight">Clari, Gong, and Gainsight</span> directly with our core platform, creating a unified view of the customer journey.
-            </li>
-            <li class="achievement-item">
-                <span class="achievement-title">Data Governance & Coverage:</span>
-                Architected and deployed the <span class="highlight">Territory Management framework</span> across over 5,000 accounts, resulting in a <span class="highlight">35% improvement in sales coverage</span> and optimizing critical business functions like lead routing.
-            </li>
-        </ul>
+      
 
 Before that I have worked in <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
 I have worked on <a href="https://www.dnb.com/products/marketing-sales/dnb-optimizer.html" target="_blank">D&B Optimizer for Salesforce</a> and <a href="https://www.dnb.com/products/marketing-sales/dnb-connect-for-salesforce.html" target="_blank">D&B Connect for Salesforce</a>. 
