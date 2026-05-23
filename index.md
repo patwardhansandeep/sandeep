@@ -1,8 +1,8 @@
 ## Some Details...
-I am currently working in <a href="https://www.zendesk.com" target="_blank">Zendesk</a> as a Salesforce Engineering Manager.
+I am currently working in <a href="https://www.tekion.com" target="_blank">Tekion Corp</a> as a Senior Manager for GTM Business Applications (Salesforce).
 <title>Engineering Focus</title>
             I specialize in engineering comprehensive solutions that manage the entire <span class="highlight">Lead-to-Cash (L2C) process</span>, ensuring seamless data flow between core platforms and external applications. My technical expertise spans the full stack of modern development: <span class="highlight">Apex, Triggers, Flows, and Lightning Web Components (LWC)</span>.
-    
+    I have worked with Zendesk prior to Tekion as a Salesforce Engineering Manager managing a team of 14+ members across the timezones like IST, PST, EST, Europe. 
       
 
 Before that I have worked in <a href="https://www.dnb.com" target="_blank">Dun & Bradstreet</a> as a Senior Salesforce Engineer.
